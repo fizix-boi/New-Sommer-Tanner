@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\sim\Documents\GitHub\New-Sommer-Tanner\circuitSims\v01\nstCircuitSim.asc
-Start Time: Wed Apr 16 17:48:22 2025
+Start Time: Thu Apr 17 10:21:34 2025
 r1: both pins shorted together -- ignoring.
 r5: both pins shorted together -- ignoring.
 r7: both pins shorted together -- ignoring.
@@ -55,5 +55,5 @@ WARNING: Less than two connections to node n095.  This node is used by r3.
 WARNING: Less than two connections to node n092.  This node is used by r201.
 WARNING: Less than two connections to node vout.  This node is used by r323.
 .OP point found by inspection.
-Total elapsed time: 0.066 seconds.
+Total elapsed time: 0.052 seconds.
 
