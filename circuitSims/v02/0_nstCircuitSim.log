@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\sim\Documents\GitHub\New-Sommer-Tanner\circuitSims\v02\0_nstCircuitSim.asc
-Start Time: Sat Apr 19 16:11:39 2025
+Start Time: Thu Apr 24 11:00:34 2025
 solver = Normal
 Maximum thread count: 24
 tnom = 27
@@ -14,5 +14,5 @@ Ignoring empty pin current: Ix(u1:1)
 Ignoring empty pin current: Ix(u1:2)
 Ignoring empty pin current: Ix(u1:1)
 Ignoring empty pin current: Ix(u1:2)
-Total elapsed time: 0.030 seconds.
+Total elapsed time: 0.031 seconds.
 
